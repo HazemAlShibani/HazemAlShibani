@@ -21,7 +21,7 @@
 
 <h3> 🏃‍♂️ &nbsp;What am I learning now?</h3>
 
-🔭 I'm currently working on improve my designs with React JS library ![React](https://img.shields.io/badge/-react-333333?style=flat&logo=react)
+🔭 I'm currently working on improving my designs with React JS library ![React](https://img.shields.io/badge/-react-333333?style=flat&logo=react)
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
