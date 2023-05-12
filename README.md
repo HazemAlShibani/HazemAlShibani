@@ -12,6 +12,7 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Sass](https://img.shields.io/badge/-sass-333333?style=flat&logo=sass)
+  ![React](https://img.shields.io/badge/-react-333333?style=flat&logo=react)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
@@ -21,7 +22,7 @@
 
 <h3> 🏃‍♂️ &nbsp;What am I learning now?</h3>
 
-🔭 I'm currently working on improving my designs with React JS library ![React](https://img.shields.io/badge/-react-333333?style=flat&logo=react)
+🔭 I'm currently working on improving my designs with Next JS library 
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
