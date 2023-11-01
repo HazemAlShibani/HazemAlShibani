@@ -14,10 +14,13 @@
   ![Sass](https://img.shields.io/badge/-sass-333333?style=flat&logo=sass)
   ![React](https://img.shields.io/badge/-react-333333?style=flat&logo=react)
   ![Redux](https://img.shields.io/badge/-redux-333333?style=flat&logo=redux)
+  ![Next.js](https://img.shields.io/badge/-next.js-333333?style=flat&logo=next.js)
+  ![Jest](https://img.shields.io/badge/-jest-333333?style=flat&logo=jest)
   
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Firebase](https://img.shields.io/badge/-firebase-333333?style=flat&logo=firebase)
   ![MUI](https://img.shields.io/badge/-MUI-333333?style=flat&logo=mui)
   
 - 🖥 &nbsp;
@@ -26,7 +29,7 @@
 
 <h3> 🏃‍♂️ &nbsp;What am I learning now?</h3>
 
-🔭 I'm currently working on improving my designs with Next JS library 
+🔭 I'm currently working on improving my work with (https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=GraphQL) 
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
