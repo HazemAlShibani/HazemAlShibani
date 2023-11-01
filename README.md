@@ -29,7 +29,7 @@
 
 <h3> 🏃‍♂️ &nbsp;What am I learning now?</h3>
 
-🔭 I'm currently working on improving my work with (https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=GraphQL) 
+🔭 I'm currently working on improving my work with ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=GraphQL) 
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
