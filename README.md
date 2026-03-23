@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Hazem Al-Shibani <img src="https://github.com/ali-mohamed-nasser/ali-mohamed-nasser/blob/main/icons/hello.gif" width="27"></h2> 
+<h2> Hey there! I'm Hazem Alshibani <img src="https://github.com/ali-mohamed-nasser/ali-mohamed-nasser/blob/main/icons/hello.gif" width="27"></h2> 
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
