@@ -36,5 +36,5 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/hazem-al-shibani-223311211/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Hazem%20Al%20Shibani-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:hazem.alshibani03@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-hazemsalmanalshibani@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:hazemsalmanalshibani@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-hazemsalmanalshibani@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
